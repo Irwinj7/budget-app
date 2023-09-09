@@ -1,0 +1,33 @@
+.App {
+    /* text-align: center; */
+    text-decoration: none;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    padding: 20px;
+    margin: 0px;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 5px;
+    border-color: gray;
+}
+.showNavigation{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+.Edit{
+    display: flex;
+    flex-direction: column;
+    column-count: 1;
+}
+.edit-form{
+    display: flex;
+    flex-direction: column;
+}
