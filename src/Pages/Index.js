@@ -4,7 +4,7 @@ function Index() {
 
   return (
     <div className="Index">
-      <h2>Bank Account Total ${}</h2>
+      <h2>Bank Account Transactions</h2>
       <Logs />
     </div>
   );
